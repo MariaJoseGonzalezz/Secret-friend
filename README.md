@@ -1,26 +1,34 @@
-# Amigo Secreto
+![image](https://github.com/user-attachments/assets/d25a5672-10db-4dac-a282-9abd0d97106f)
+# 🎉 **Amigo Secreto** 🎉
 
 ## Descripción
 
-"Amigo Secreto" es una aplicación web simple para gestionar un sorteo de amigos secretos. Los usuarios pueden agregar los nombres de sus amigos, ver una lista de los amigos ingresados y sortear un nombre de manera aleatoria para asignar el amigo secreto. Es ideal para juegos de "Amigo Secreto" en celebraciones y reuniones.
+**"Amigo Secreto"** es una aplicación web simple que permite agregar nombres de amigos, ver la lista y sortear al azar un amigo secreto. Ideal para juegos de amigo secreto en reuniones o celebraciones. 🎁
 
-## Funcionalidades
+- **Añadir nombres**
+- **Ver la lista de amigos**
+- **Sortear un amigo secreto al azar**
 
-1. **Agregar amigos**: Los usuarios pueden escribir el nombre de un amigo y añadirlo a la lista.
-2. **Visualizar lista de amigos**: Los amigos ingresados se muestran en una lista visible en la pantalla.
-3. **Sortear un amigo secreto**: Se elige un nombre al azar de la lista y se muestra al usuario.
+---
 
-## Tecnologías utilizadas
+## 🚀 **Características**
 
-- **HTML**: Para la estructura de la página web.
-- **CSS**: Para los estilos de la página.
-- **JavaScript**: Para la funcionalidad interactiva (agregar nombres y sortear al azar).
+- ✅ **Fácil de usar**  
+- ✅ **Interfaz intuitiva**  
+- ✅ **Sorteo aleatorio sin complicaciones**  
 
-## Instalación
+## 🛠️ **Tecnologías utilizadas**
 
-### Clonando el repositorio
+- **HTML** - Estructura básica de la aplicación
+- **CSS** - Estilo para hacerla atractiva
+- **JavaScript** - Funcionalidades interactivas (agregar nombres, sorteo aleatorio)
 
-1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
+---
 
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+## 📌 **Instrucciones**
+
+1. **Agrega los nombres** de tus amigos en el campo de texto.
+2. **Haz clic en "Añadir"** para agregarlos a la lista.
+3. **Haz clic en "Sortear"** para elegir un amigo secreto al azar.
+
+---
